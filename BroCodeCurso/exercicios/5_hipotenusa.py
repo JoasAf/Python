@@ -1,0 +1,10 @@
+# Exercício 5 calculando a hipotenusa
+
+from math import hypot
+
+c1 = float(input('Digite o tamanho do cateto adjacente: '))
+c2 = float(input('Digite o tamanho do cateto oposto: '))
+
+h = hypot(c1, c2)
+
+print(f'A hipotenusa é {h:.2f}')
