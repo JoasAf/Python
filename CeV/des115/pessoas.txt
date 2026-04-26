@@ -1,0 +1,18 @@
+Joás;17
+Anna;15
+Hélio;102
+Gabriela;24
+Carlos;30
+Fernanda;37
+Matheus;21
+Juliana;29
+Felipe;33
+Camila;26
+Eduardo;39
+Laura;32
+Marcos;27
+Larissa;25
+André;34
+Relampago McQueen;999
+HotWheels;1
+Josefino;1

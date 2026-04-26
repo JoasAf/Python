@@ -1,0 +1,1 @@
+from des111.utilidadesCvE import moeda, dado
