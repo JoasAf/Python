@@ -1,5 +1,4 @@
 Joás;17
-Anna;15
 Hélio;102
 Gabriela;24
 Carlos;30
